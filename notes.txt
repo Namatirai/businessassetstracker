@@ -1,0 +1,49 @@
+- an application that can allow to keep track of business assets.
+
+
+relationships
+- one business can have many assets
+- the assets can only belong to each asset
+
+
+Business(Crifel)
+Salary costs:
+Overhead costs:
+Total sales:
+Total profit
+
+
+Assets
+- Asset name:
+- Total Expenditure:
+- Total losses 
+addasset()
+
+Chicken:
+name:black astrolope
+cost:
+feed expenses:
+medicine expenses:
+sales:
+
+
+Properties
+name
+building cost
+income generated
+
+what i want the application to do
+1) i want my application to be able to log existing assets 
+2) add assets remove assets
+3) log asset data(the expenses,the profits) in weekly format
+4)there can be diffrent types of assets properties,live animals for meat,small botiques
+
+what are the things that every asset will be able to do?
+1) calculate the weekly expenditure
+2)calculate the weekly profit
+3)it will def have a general description
+
+
+
+
+
